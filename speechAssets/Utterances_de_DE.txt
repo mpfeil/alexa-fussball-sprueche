@@ -1,8 +1,9 @@
-GetNewFactIntent eine Fussballweisheit
-GetNewFactIntent sage mir eine Fussballweisheit
-GetNewFactIntent sage mir einen Weisheit über Fussball
-GetNewFactIntent gib mir eine Weisheit
-GetNewFactIntent gib mir eine Weisheit über Fussball
+GetNewFactIntent einen Fussballspruch
+GetNewFactIntent sage mir einen Fussballspruch
+GetNewFactIntent sage mir einen Spruch über Fussball
+GetNewFactIntent gib mir einen Spruch
+GetNewFactIntent gib mir einen Spruch über Fussball
 GetNewFactIntent erzähle mir Wissenswertes über Fussball
+GetNewFactIntent erzähl mir Wissenwertes über Fussball
 GetNewFactIntent sage mir etwas
 GetNewFactIntent erzähle mir etwas
